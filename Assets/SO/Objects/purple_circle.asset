@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6a36ae421b7c3f48b47d5603412981b, type: 3}
+  m_Name: purple_circle
+  m_EditorClassIdentifier: 
+  color: purple
+  sprite: {fileID: 21300000, guid: 75c70b1ca5588d641a40d7b700a84f02, type: 3}
